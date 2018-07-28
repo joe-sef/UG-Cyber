@@ -1,2 +1,2 @@
 # UG-Cyber
-UG-Cyber web
+Official UG-Cyber website repository
